@@ -4,7 +4,7 @@
 # Lab 08
 # Lab Section: 16
 # Sources, people worked with, help given to:
-# N/A
+# TA help :) 
 
 
 # Write a function that will properly check strings to see if they are an int or float, and convert them if so
